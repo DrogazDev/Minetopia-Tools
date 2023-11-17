@@ -1,0 +1,9 @@
+name: MinetopiaTools
+version: '${project.version}'
+main: me.drogaz.minetopiatools.Main
+authors: [ DrogazDevelopment ]
+description: Tools voor je minetopia server
+commands:
+  tools:
+    aliases: [mttools, mtt]
+    description: Maak snel items & kleding voor je minetopia server.
